@@ -1,0 +1,8 @@
+//user name of github
+$ git config --global user.name samseptwo
+//email of github
+$ git config --global user.email sameer2sep2002@gmail.com
+//verficattion
+$ git config --global user.email
+if email is shown then git is installed properly. 
+(if not working ) again install.
